@@ -1,3 +1,13 @@
+# RoadBoat — BlackRoad AI coworker with persistent memory and collaboration.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 <a href="https://www.youtube.com/watch?v=5AWoGo-L16I" target="_blank" rel="noopener noreferrer">
   <img width="1339" height="607" alt="rowboat-github-2" src="https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901" />
 </a>
